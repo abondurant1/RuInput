@@ -1,2 +1,3 @@
 # RuInput
-Group Project for web2
+
+## Itec 325 Group Project
